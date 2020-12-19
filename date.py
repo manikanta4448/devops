@@ -13,4 +13,4 @@ while True:
 	elif "exit" in ch:
 		break
 	else:
-		print("dont understand")
+		print("dont understand anything about it")
