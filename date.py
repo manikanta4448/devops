@@ -1,7 +1,8 @@
 import webbrowser as wb
+import numpy as np
 
 while True:
-	print("enter u r choice:")
+	print("enter your choice:")
 	ch = input()
 
 	if "date" in ch:
